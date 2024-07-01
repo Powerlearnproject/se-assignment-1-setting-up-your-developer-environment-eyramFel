@@ -52,3 +52,20 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+Visual Studio:
+If you’re developing Flutter apps for Windows, you’ll need to install Visual Studio 2022. Download it from here.
+During installation, make sure to select the "Desktop development with C++" workload and install all its default components1.
+If you only want to develop mobile apps using Flutter, you can ignore this step. To disable desktop support, run flutter config --no-enable-windows-desktop1.
+Flutter:
+You can install Flutter using Visual Studio Code (VS Code) or manually.
+To use VS Code:
+Make sure you have VS Code 1.77 or later installed.
+Install the Flutter extension for VS Code2.
+To install Flutter manually:
+Download the Flutter bundle from here and follow the instructions3.
+C:
+If you’re writing C code, you can use Visual Studio Code as your code editor.
+Install VS Code from here4.
+SQL:
+SQL doesn’t require a specific IDE. You can use tools like SQL Server Management Studio (SSMS) or Visual Studio Code with SQL extensions.
+Install SSMS from here1.
